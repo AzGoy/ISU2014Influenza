@@ -1,0 +1,20 @@
+﻿{
+  "name": "chitChat",
+  "version": "0.1.0",
+  "author": "Jared Cubilla",
+  "private": true,
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-cssc": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-scsslint": "~0.1.0",
+    "grunt-htmlhint": "*",
+    "matchdep": "*"
+  }
+}
