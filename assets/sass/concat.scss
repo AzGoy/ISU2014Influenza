@@ -1,0 +1,10 @@
+body {
+    color: #000;
+}
+
+$helvetica-pack : Arial, Comic Sans MS, sans-serif;
+
+body {
+    font-family: $helvetica-pack;
+    color: green;
+}
